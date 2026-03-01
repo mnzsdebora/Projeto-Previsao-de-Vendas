@@ -16,7 +16,7 @@ Foi realizada uma análise exploratória e o pré-processamento dos dados para g
 
 ---
 
-## ⚙️ **Técnicas e Algoritmos Utilizados**
+##  **Técnicas e Algoritmos Utilizados**
 
 ### **Modelo de Machine Learning**
 -  Random Forest Regressor
@@ -28,7 +28,7 @@ Foi realizada uma análise exploratória e o pré-processamento dos dados para g
 
 ---
 
-## 🛠️ **Ferramentas e Tecnologias**
+## **Ferramentas e Tecnologias**
 
 - **Linguagem**: Python  
 - **Bibliotecas**:  
@@ -40,7 +40,7 @@ Foi realizada uma análise exploratória e o pré-processamento dos dados para g
 
 ---
 
-## 🧪 **Estrutura do Projeto**
+## **Estrutura do Projeto**
 
 
 ├── data/                       # Conjunto de dados utilizado no projeto
